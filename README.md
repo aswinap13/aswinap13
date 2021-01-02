@@ -9,15 +9,16 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="photreo" width="22px" src="twitter.png"/>][LinkEdin]
+[<img align="left" alt="photreo" width="22px" src="twitter.png"/>][Twitter]
+[<img align="left" alt="photreo" width="22px" src="link.png"/>][LinkEdin]
 [<img align="left" alt="photreo" width="22px" src="hacker.png"/>][HackerRank]
 [<img align="left" alt="photreo" width="22px" src="insta.png"/>][Instagram]
 <br />
 
 ### Skills 
-- Java
-- HTML, CSS.. learning!
-- C
+- Java 
+- HTML, CSS and learning!
+- C Programming
 
 [website]: https://www.udemy.com/course/50-projects-50-days/
 [Twitter]: https://twitter.com/aswin139
