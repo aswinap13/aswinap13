@@ -28,7 +28,7 @@
 [<img align="left" alt="Terminal" width="26px" src="term.png" />][LinkEdin]
 <br />
 <br />
-
+![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow%20%40photreo&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Faswin139)
 ---
 
 [website]: https://www.udemy.com/course/50-projects-50-days/
