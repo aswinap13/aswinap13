@@ -12,7 +12,7 @@
 [<img align="left" alt="photreo" width="22px" src="twitter.png"/>][Twitter]
 [<img align="left" alt="aswin" width="22px" src="link.png"/>][LinkEdin]
 [<img align="left" alt="aswin" width="22px" src="hacker.png"/>][HackerRank]
-[<img align="left" alt="aswin" width="22px" src="insta.png"/>][Instagram]
+[<img align="left" alt="aswin" width="22px" src="instagram.png"/>][Instagram]
 <br />
 
 ### Skills 
