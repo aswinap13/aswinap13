@@ -2,10 +2,10 @@
 
 ## I'm a Computer Science Eng Student :)
 - Currently I'm working on [50 Project 50 Days Udemy][website]!
-- I'm currently learning Java, JS, React :)
-- Looking forward to work with other developers on some projects.
-- 2021 Goals: Full stack Dev, Contribute more to open source;
-- Fun Fact: I just started using git 
+- 🤚 I'm currently learning Java, JS, React :)
+- 🤗 Looking forward to work with other developers on some projects.
+- ♋️ 2021 Goals: Full stack Dev, Contribute more to open source;
+- Fun Fact: I just started using git ⚜️
 
 ### Connect With Me:
 
