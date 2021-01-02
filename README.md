@@ -1,6 +1,6 @@
 ### Hi there, I'm Aswin
 
-![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow%20%40photreo&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Faswin139)[Twitter]
+![https://twitter.com/aswin139](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow%20%40photreo&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Faswin139)
 
 ## I'm a Computer Science Engineering Student :)
 - I'm working on [50 Project 50 Days By Traversy Media (Udemy)][website]!
