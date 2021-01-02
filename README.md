@@ -17,24 +17,15 @@
 
 ### Skills, Languages and Tools
 
-[<img align="left" alt="Java" width="26px" src="java.png" />]
-
-[<img align="left" alt="JavaScript" width="26px" src="js.png" />]
-
-[<img align="left" alt="HTML5" width="26px" src="html.png" />]
-
-[<img align="left" alt="CSS3" width="26px" src="css.png" />]
-
-[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />]
-
-[<img align="left" alt="Git" width="26px" src="git.png" />]
-
-[<img align="left" alt="GitHub" width="26px" src="github.png" />]
-
-[<img align="left" alt="Terminal" width="26px" src="term.png" />]
-
+[<img align="left" alt="Java" width="26px" src="java.png" />][LinkEdin]
+[<img align="left" alt="JavaScript" width="26px" src="js.png" />][LinkEdin]
+[<img align="left" alt="HTML5" width="26px" src="html.png" />][LinkEdin]
+[<img align="left" alt="CSS3" width="26px" src="css.png" />][LinkEdin]
+[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />][LinkEdin]
+[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />][LinkEdin]
+[<img align="left" alt="Git" width="26px" src="git.png" />][LinkEdin]
+[<img align="left" alt="GitHub" width="26px" src="github.png" />][LinkEdin]
+[<img align="left" alt="Terminal" width="26px" src="term.png" />][LinkEdin]
 <br />
 <br />
 
