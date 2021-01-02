@@ -1,8 +1,8 @@
 ### Hi there, I'm Aswin
 
-## I'm a Computer Science Eng Student :)
-- Currently I'm working on [50 Project 50 Days Udemy][website]!
-- 🤚 I'm currently learning Java, JS, React :)
+## I'm a Computer Science Engineering Student :)
+- I'm working on [50 Project 50 Days By Traversy Media (Udemy)][website]!
+- 🤚 Currently  I'm learning Java, JS, React :)
 - 🤗 Looking forward to work with other developers on some projects.
 - ♋️ 2021 Goals: Full stack Dev, Contribute more to open source;
 - ⚜️ Fun Fact: I just started using git 
@@ -15,10 +15,30 @@
 [<img align="left" alt="aswin" width="22px" src="instagram.png"/>][Instagram]
 <br />
 
-### Skills 
-- Java 
-- HTML, CSS and learning!
-- C Programming
+### Skills, Languages and Tools
+
+[<img align="left" alt="Java" width="26px" src="java.png" />]
+
+[<img align="left" alt="JavaScript" width="26px" src="js.png" />]
+
+[<img align="left" alt="HTML5" width="26px" src="html.png" />]
+
+[<img align="left" alt="CSS3" width="26px" src="css.png" />]
+
+[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />]
+
+[<img align="left" alt="Git" width="26px" src="git.png" />]
+
+[<img align="left" alt="GitHub" width="26px" src="github.png" />]
+
+[<img align="left" alt="Terminal" width="26px" src="term.png" />]
+
+<br />
+<br />
+
+---
 
 [website]: https://www.udemy.com/course/50-projects-50-days/
 [Twitter]: https://twitter.com/aswin139
