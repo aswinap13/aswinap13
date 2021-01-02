@@ -5,7 +5,7 @@
 - 🤚 I'm currently learning Java, JS, React :)
 - 🤗 Looking forward to work with other developers on some projects.
 - ♋️ 2021 Goals: Full stack Dev, Contribute more to open source;
-- Fun Fact: I just started using git ⚜️
+- ⚜️ Fun Fact: I just started using git 
 
 ### Connect With Me:
 
