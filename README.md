@@ -4,8 +4,8 @@
 
 ## I'm a Computer Science Engineering Student :)
 - I'm working on [50 Project 50 Days By Traversy Media (Udemy)][website]!
-- 🤚 Currently  I'm learning Java, JS, React :)
 - 🤗 CSS Evangelist.
+- 🤚 Currently  I'm learning Java, JS, React :)
 - ♋️ 2021 Goals: Full stack Dev, Contribute more to open source;
 - ⚜️ Fun Fact: I just started using git 
 
