@@ -11,24 +11,24 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="aswin13" width="22px" src="codepen.png"/>][CodePen]{:target="_blank"}
-[<img align="left" alt="photreo" width="22px" src="twitter.png"/>][Twitter]{:target="_blank"}
-[<img align="left" alt="aswin" width="22px" src="link.png"/>][LinkEdin]{:target="_blank"}
-[<img align="left" alt="aswin" width="22px" src="hacker.png"/>][HackerRank]{:target="_blank"}
-[<img align="left" alt="aswin" width="22px" src="instagram.png"/>][Instagram]{:target="_blank"}
+[<img align="left" alt="aswin13" width="22px" src="codepen.png"/>][CodePen]
+[<img align="left" alt="photreo" width="22px" src="twitter.png"/>][Twitter]
+[<img align="left" alt="aswin" width="22px" src="link.png"/>][LinkEdin]
+[<img align="left" alt="aswin" width="22px" src="hacker.png"/>][HackerRank]
+[<img align="left" alt="aswin" width="22px" src="instagram.png"/>][Instagram]
 <br />
 
 ### Skills, Languages and Tools
 
-[<img align="left" alt="Java" width="26px" src="java.png" />][JAVA]{:target="_blank"}
-[<img align="left" alt="JavaScript" width="26px" src="js.png" />][Javascript]{:target="_blank"}
-[<img align="left" alt="HTML5" width="26px" src="html.png" />][HTML]{:target="_blank"}
-[<img align="left" alt="CSS3" width="26px" src="css.png" />][CSS]{:target="_blank"}
-[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />][ecl]{:target="_blank"}
-[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />][vsc]{:target="_blank"}
-[<img align="left" alt="Git" width="26px" src="git.png" />][git]{:target="_blank"}
-[<img align="left" alt="GitHub" width="26px" src="github.png" />][github]{:target="_blank
-[<img align="left" alt="Terminal" width="26px" src="term.png" />][term]{:target="_blank"}
+[<img align="left" alt="Java" width="26px" src="java.png" />][JAVA]
+[<img align="left" alt="JavaScript" width="26px" src="js.png" />][Javascript]
+[<img align="left" alt="HTML5" width="26px" src="html.png" />][HTML]
+[<img align="left" alt="CSS3" width="26px" src="css.png" />][CSS]
+[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />][ecl]
+[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />][vsc]
+[<img align="left" alt="Git" width="26px" src="git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="term.png" />][term]
 <br />
 <br />
 
