@@ -34,18 +34,18 @@
 
 ---
 
-[website]: https://www.udemy.com/course/50-projects-50-days/
-[CodePen]:https://codepen.io/aswinap13
-[Twitter]: https://twitter.com/aswin139
-[LinkEdin]: https://www.linkedin.com/in/aswin-a-p/
-[HackerRank]: https://www.hackerrank.com/aswinap10
-[Instagram]: https://www.instagram.com/a.s__w.i.n/
-[JAVA]:https://www.java.com/
-[Javascript]:https://www.javascript.com/
-[HTML]:https://html.com/
-[CSS]:https://developer.mozilla.org/en-US/docs/Web/CSS
-[ecl]:https://www.eclipse.org/
-[vsc]:https://code.visualstudio.com/
-[git]:https://git-scm.com/
-[github]:https://github.com/
-[term]:https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+[website]: https://www.udemy.com/course/50-projects-50-days/{:target="_blank"}
+[CodePen]:https://codepen.io/aswinap13{:target="_blank"}
+[Twitter]: https://twitter.com/aswin139{:target="_blank"}
+[LinkEdin]: https://www.linkedin.com/in/aswin-a-p/{:target="_blank"}
+[HackerRank]: https://www.hackerrank.com/aswinap10{:target="_blank"}
+[Instagram]: https://www.instagram.com/a.s__w.i.n/{:target="_blank"}
+[JAVA]:https://www.java.com/{:target="_blank"}
+[Javascript]:https://www.javascript.com/{:target="_blank"}
+[HTML]:https://html.com/{:target="_blank"}
+[CSS]:https://developer.mozilla.org/en-US/docs/Web/CSS{:target="_blank"}
+[ecl]:https://www.eclipse.org/{:target="_blank"}
+[vsc]:https://code.visualstudio.com/{:target="_blank"}
+[git]:https://git-scm.com/{:target="_blank"}
+[github]:https://github.com/{:target="_blank"}
+[term]:https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701{:target="_blank"}
