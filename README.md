@@ -11,7 +11,7 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="aswin13" width="22px" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png"/>][CodePen]
+[<img align="left" alt="aswin13" width="22px" src="codepen.png"/>][CodePen]
 [<img align="left" alt="photreo" width="22px" src="twitter.png"/>][Twitter]
 [<img align="left" alt="aswin" width="22px" src="link.png"/>][LinkEdin]
 [<img align="left" alt="aswin" width="22px" src="hacker.png"/>][HackerRank]
