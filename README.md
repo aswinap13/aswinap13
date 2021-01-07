@@ -5,7 +5,7 @@
 ## I'm a Computer Science Engineering Student :)
 - I'm working on [50 Project 50 Days By Traversy Media (Udemy)][website]!
 - 🤗 CSS Evangelist.
-- 🤚 Currently  I'm learning Java, JS, React :)
+- 🤚 Currently learning Java, JS, React :)
 - ♋️ 2021 Goals: Full stack Dev, Contribute more to open source;
 - ⚜️ Fun Fact: I just started using git 
 
@@ -20,15 +20,15 @@
 
 ### Skills, Languages and Tools
 
-[<img align="left" alt="Java" width="26px" src="java.png" />][]
-[<img align="left" alt="JavaScript" width="26px" src="js.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="html.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="css.png" />][]
-[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />][]
-[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />][]
+[<img align="left" alt="Java" width="26px" src="java.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="js.png" />]
+[<img align="left" alt="HTML5" width="26px" src="html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="css.png" />]
+[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />]
 [<img align="left" alt="Git" width="26px" src="git.png" />][]
-[<img align="left" alt="GitHub" width="26px" src="github.png" />][]
-[<img align="left" alt="Terminal" width="26px" src="term.png" />][]
+[<img align="left" alt="GitHub" width="26px" src="github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="term.png" />]
 <br />
 <br />
 
