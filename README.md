@@ -1,4 +1,4 @@
-# Hi! I'm Aswin👋
+# Hi there! I'm Aswin👋
 
 ![https://twitter.com/aswin139](https://img.shields.io/twitter/follow/aswin139?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
 
@@ -7,7 +7,7 @@
 - I'm working on [50 Project 50 Days By Traversy Media (Udemy)][website]!
 - 🤗 CSS Evangelist.
 - 🤚 Currently learning Java, JS, React :)
-- ♋️ 2021 Goals: Full stack Dev, Contribute more to open source;
+- ♋️ 2021 Goals: Full stack Dev;
  
 
 ### Connect With Me:
