@@ -1,4 +1,4 @@
-# Hi there! I'm Aswin👋
+# Hi there! I'm Aswin 👋
 
 ![https://twitter.com/aswin139](https://img.shields.io/twitter/follow/aswin139?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
 
@@ -32,6 +32,8 @@
 [<img align="left" alt="Terminal" width="26px" src="term.png" />][term]
 <br />
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinap13&layout=compact&theme=dracula)](https://github.com/aswinap13)
+<br><br>
 # Projects:
 <a href="https://github.com/aswinap13/Twitter">
     <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aswinap13&repo=Twitter&show_icons=true&theme=dracula&show_owner=aswin">
@@ -45,9 +47,6 @@
 
 <br>
 <br>
-# Stats:
-
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=aswinap13&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/aswinap13)
 
 <br>
 <br>
