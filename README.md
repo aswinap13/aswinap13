@@ -1,6 +1,5 @@
 # Hi there! I'm Aswin 👋
 
-![https://twitter.com/aswin139](https://img.shields.io/twitter/follow/aswin139?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
 
 ## I'm a Computer Science Engineering Student :)
 >About me:
@@ -33,8 +32,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinap13&layout=compact&theme=dracula)](https://github.com/aswinap13)
 <br><br>
 # Projects:
-<a href="https://github.com/aswinap13/Twitter">
-    <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aswinap13&repo=Twitter&show_icons=true&theme=dracula&show_owner=aswin">
+<a href="https://github.com/aswinap13/CSS-Works">
+    <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aswinap13&repo=LearnLed&show_icons=true&theme=dracula&show_owner=aswin">
 </a>
 <a href="https://github.com/aswinap13/Java-Practice-Problems-Beginner">
     <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aswinap13&repo=Java-Practice-Problems-Beginner-&show_icons=true&theme=dracula&show_owner=aswin">
