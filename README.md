@@ -6,8 +6,6 @@
 >About me:
 - I'm working on [50 Project 50 Days By Traversy Media (Udemy)][website]!
 - 🤗 CSS Evangelist.
-- 🤚 Currently learning Java, JS, React :)
-- ♋️ 2021 Goals: Full stack Dev;
  
 
 ### Connect With Me:
