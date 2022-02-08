@@ -3,7 +3,6 @@
 
 ## I'm a Computer Science Engineering Student :)
 >About me:
-- I'm working on [50 Project 50 Days By Traversy Media (Udemy)][website]!
 - 🤗 CSS Evangelist.
  
 
