@@ -28,22 +28,7 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinap13&layout=compact&theme=dracula)](https://github.com/aswinap13)
 <br><br>
-# Projects:
-<a href="https://github.com/aswinap13/CSS-Works">
-    <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aswinap13&repo=LearnLed&show_icons=true&theme=dracula&show_owner=aswin">
-</a>
-<a href="https://github.com/aswinap13/Java-Practice-Problems-Beginner">
-    <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aswinap13&repo=Java-Practice-Problems-Beginner-&show_icons=true&theme=dracula&show_owner=aswin">
-</a>
-<a href="https://github.com/aswinap13/CSS-Works">
-    <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aswinap13&repo=CSS-Works&show_icons=true&theme=dracula&show_owner=aswin">
-</a>
 
-<br>
-<br>
-
-<br>
-<br>
 
 [website]: https://www.udemy.com/course/50-projects-50-days/
 [CodePen]:https://codepen.io/aswinap13
