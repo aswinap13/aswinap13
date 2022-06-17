@@ -2,8 +2,6 @@
 
 
 ## I'm a Computer Science Engineering Student :)
->About me:
-- 🤗 CSS Evangelist.
  
 
 ### Connect With Me:
