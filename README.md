@@ -25,8 +25,7 @@
 [<img align="left" alt="Terminal" width="26px" src="term.png" />][term]
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinap13&layout=compact&theme=dracula)](https://github.com/aswinap13)
-<br><br>
+
 
 
 [website]: https://www.udemy.com/course/50-projects-50-days/
