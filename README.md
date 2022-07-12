@@ -7,7 +7,6 @@
 ### Connect With Me:
 
 [<img align="left" alt="aswin13" width="22px" src="codepen.png"/>][CodePen]
-[<img align="left" alt="photreo" width="22px" src="twitter.png"/>][Twitter]
 [<img align="left" alt="aswin" width="22px" src="link.png"/>][LinkEdin]
 [<img align="left" alt="aswin" width="22px" src="hacker.png"/>][HackerRank]
 [<img align="left" alt="aswin" width="22px" src="instagram.png"/>][Instagram]
@@ -32,7 +31,6 @@
 
 [website]: https://www.udemy.com/course/50-projects-50-days/
 [CodePen]:https://codepen.io/aswinap13
-[Twitter]: https://twitter.com/aswin139
 [LinkEdin]: https://www.linkedin.com/in/aswin-a-p/
 [HackerRank]: https://www.hackerrank.com/aswinap10
 [Instagram]: https://www.instagram.com/a.s__w.i.n/
