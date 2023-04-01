@@ -3,7 +3,8 @@
 
 ## I'm a Computer Science Engineering Student :)
  
-
+### Experienced with building stable websites and apps in fast-paced, collaborative environments. 
+Skilled in React, JavaScript, Responsive Web Design, Cascading Style Sheets (CSS), HTML, Node, Express, Java, C and Adobe Photoshop. 
 ### Connect With Me:
 
 [<img align="left" alt="aswin13" width="22px" src="codepen.png"/>][CodePen]
