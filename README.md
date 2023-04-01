@@ -3,8 +3,7 @@
 
 ## I'm a Computer Science Engineering Student :)
  
-### Experienced with building stable websites and apps in fast-paced, collaborative environments. 
-Skilled in React, JavaScript, Responsive Web Design, Cascading Style Sheets (CSS), HTML, Node, Express, Java, C and Adobe Photoshop. 
+### Passionate MERN Stack Developer, experienced with building stable websites and apps in fast-paced, collaborative environments. 
 ### Connect With Me:
 
 [<img align="left" alt="aswin13" width="22px" src="codepen.png"/>][CodePen]
@@ -13,14 +12,21 @@ Skilled in React, JavaScript, Responsive Web Design, Cascading Style Sheets (CSS
 
 ### Skills, Languages and Tools
 
-[<img align="left" alt="Java" width="26px" src="java.png" />][JAVA]
+[<img align="left" alt="Java" width="26px" src="react.png" />][React]
 [<img align="left" alt="JavaScript" width="26px" src="js.png" />][Javascript]
+[<img align="left" alt="JavaScript" width="26px" src="node.png" />][Node]
+[<img align="left" alt="JavaScript" width="26px" src="mongo.png" />][Mongo]
+[<img align="left" alt="JavaScript" width="26px" src="express.png" />][Express]
+
 [<img align="left" alt="HTML5" width="26px" src="html.png" />][HTML]
 [<img align="left" alt="CSS3" width="26px" src="css.png" />][CSS]
-[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />][ecl]
-[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />][vsc]
+[<img align="left" alt="Java" width="26px" src="java.png" />][JAVA]
+[<img align="left" alt="JavaScript" width="26px" src="c.png" />][C]
+[<img align="left" alt="JavaScript" width="26px" src="ps.png" />][Photoshop]
 [<img align="left" alt="Git" width="26px" src="git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="github.png" />][github]
+[<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />][vsc]
+[<img align="left" alt="Eclipse" width="26px" src="ecl.png" />][ecl]
 [<img align="left" alt="Terminal" width="26px" src="term.png" />][term]
 <br />
 <br />
@@ -29,6 +35,13 @@ Skilled in React, JavaScript, Responsive Web Design, Cascading Style Sheets (CSS
 
 [CodePen]:https://codepen.io/aswinap13/
 [LinkEdin]: https://www.linkedin.com/in/aswin-a-p/
+[React]:https://react.dev/
+[Node]:https://nodejs.org/en
+[Mongo]:https://www.mongodb.com/
+[Express]:https://expressjs.com/
+[Photoshop]:https://www.adobe.com/in/products/photoshop.html
+
+
 [JAVA]:https://www.java.com/
 [Javascript]:https://www.javascript.com/
 [HTML]:https://html.com/
