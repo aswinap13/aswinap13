@@ -1,12 +1,12 @@
 # Hi there! I'm Aswin 👋
 
 
-## I'm a Computer Science Engineering Student :)
+## Backend Developer
  
-### Passionate MERN Stack Developer, experienced with building stable websites and apps in fast-paced, collaborative environments. 
+### Full stack Developer, with expertise in Laravel excelling in building robust RESTful APIs. 
+
 ### Connect With Me:
 
-[<img align="left" alt="aswin13" width="22px" src="codepen.png"/>][CodePen]
 [<img align="left" alt="aswin" width="22px" src="link.png"/>][LinkEdin]
 <br />
 
