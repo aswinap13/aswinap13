@@ -3,7 +3,7 @@
 
 ## Backend Developer
  
-### Full stack Developer, with expertise in Laravel excelling in building robust RESTful APIs. 
+### Full stack Developer, with expertise in NodeJS, Laravel excelling in building robust RESTful APIs. 
 
 ### Connect With Me:
 
